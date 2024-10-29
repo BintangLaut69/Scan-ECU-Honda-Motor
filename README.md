@@ -1,6 +1,6 @@
 
 
-#- Membuat Alat Scan ECU Motor Honda dengan Arduino Uno atau Nano
+# Membuat Alat Scan ECU Motor Honda dengan Arduino Uno atau Nano
 
 
 - Protokol Komunikasi K-line Honda
