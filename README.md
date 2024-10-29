@@ -11,6 +11,10 @@
 
 - Upload File menggunakan X Loader
 
-- Scematic
+- Schematic
   
 ![alt text](https://github.com/BintangLaut69/Scan-ECU-Honda-Motor/blob/main/SCANNER%201.0.jpg?raw=true)
+
+
+- Bill Of Material
+  
