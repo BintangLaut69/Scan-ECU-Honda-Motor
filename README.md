@@ -19,4 +19,4 @@
 
 - # Bill Of Material
   
-![alt text] (https://github.com/BintangLaut69/Scan-ECU-Honda-Motor/blob/main/Daftar%20Komponen.jpg?raw=true)
+![alt text](https://github.com/BintangLaut69/Scan-ECU-Honda-Motor/blob/main/Daftar%20Komponen.jpg?raw=true)
