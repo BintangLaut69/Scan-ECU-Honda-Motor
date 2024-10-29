@@ -11,7 +11,8 @@
 
 ## Programming
 - Upload File menggunakan X Loader
-- Xloader [Download di Sini]{https://github.com/binaryupdates/xLoader.git}
+- Xloader
+[Download di Sini]{https://github.com/binaryupdates/xLoader.git}
 
 ## Schematic
   
