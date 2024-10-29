@@ -1,0 +1,19 @@
+Daftar Komponen
+
+- Arduino Uno atau Arduino Nano x1    = Rp 40.000
+- Modul Step Down LM2596 x1           = Rp  8.000
+- PC817 x2                            = Rp  1.000
+- Push Button / Tombol x3             = Rp  3.000
+- Saklar On-Off x1                    = Rp  5.000
+- LCD 2x16 x1                         = Rp 18.000
+- Modul LCD i2C x1                    = Rp 13.000
+- Resistor 560 ohm x1                 = Rp    100
+- Resistor 360 ohm x1                 = Rp    100
+- Resistor 1,2 Kohm x1                = Rp    100
+- Led 3mm Warna Merah x1              = Rp    300
+- Box Plastik 10cm x 15cm             = Rp  7.000
+- PCB Lubang                          = Rp  5.000   +
+-----------------------------------------------------
+                       Total Estimasi = Rp100.600
+					   
+  Note : Harga komponen Berbeda di Tiap Daerah					   
