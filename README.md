@@ -21,3 +21,7 @@
 
 ## Bill Of Material
 ![alt text](https://github.com/BintangLaut69/Scan-ECU-Honda-Motor/blob/main/Daftar%20Komponen.jpg?raw=true)
+
+
+## Note :
+- Jika model Motor yg akan di scan Beda dengan yg ada di daftar menu, scan tetap bisa dipakai, karena pada dasarnya data pembacaannya itu sama. 
