@@ -28,12 +28,12 @@
 
 ## Pay & Price
 
-- Jika Anda berminat untuk sketch/Coding nya silahkan Transfer ke LinkAja a/n SRIASTUTI dengan nominal Rp. 40.000 , Lalu kontak ke 087717860565 
+- Jika Anda berminat untuk sketch / Coding nya silahkan Transfer ke LinkAja a/n SRIASTUTI dengan nominal Rp. 40.000 , Lalu kontak ke 087717860565 
 
 - Untu sketch yg di kirim ada 2
 
 1. File sketch scan ecu  seperti divideo
 2. File sketch untuk Auto conect ( video belum di publikasi) 
-Note : ( No retur, No complain) & jika sudah order maka jika ada update maka File update akan dikirimkan Free...
+- Note : ( No retur, No complain) & jika sudah order maka jika ada update maka File update akan dikirimkan Free...
 
 Selamat Mencoba Kami siap membantu.... 
