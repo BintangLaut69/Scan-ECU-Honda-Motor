@@ -27,7 +27,6 @@
 - Jika model Motor yg akan di scan Beda dengan yg ada di daftar menu, scan tetap bisa dipakai, karena pada dasarnya data pembacaannya itu sama. 
 
 ## Pay & Price
-
 - Jika Anda berminat untuk sketch / Coding nya silahkan Transfer ke LinkAja a/n SRIASTUTI dengan nominal Rp. 40.000 , Lalu kontak ke 087717860565 
 
 - Untu sketch yg di kirim ada 2
