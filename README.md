@@ -32,8 +32,8 @@
 
 - Untu sketch yg di kirim ada 2
 
-1. File sketch scan ecu  seperti divideo
-2. File sketch untuk Auto conect ( video belum di publikasi) 
+1. File sketch scan ecu MODE REGULER
+2. File sketch untuk Auto conect 
 - Note : ( No retur, No complain) & jika sudah order maka jika ada update maka File update akan dikirimkan Free...
 
 Selamat Mencoba Kami siap membantu.... 
