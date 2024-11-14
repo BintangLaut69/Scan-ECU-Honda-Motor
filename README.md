@@ -29,7 +29,7 @@
 - Untuk versi auto conect yaitu scan akan otomatis membaca model motor, jadi tidak perlu mencari model motor di menu
 
 ## Pay & Price
-- Untuk file Hex free Untuk Anda semua kawan
+- Untuk file Hex free buat Anda semua kawan
 - Jika Anda berminat untuk oprek sketch / Coding nya silahkan Transfer ke LinkAja no 081990636845 a/n SRIASTUTI dengan nominal Rp. 40.000 , Lalu kontak ke admin 087717860565 
 
 - Untu sketch yg di kirim ada 2
