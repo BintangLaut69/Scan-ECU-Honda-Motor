@@ -11,7 +11,8 @@
 
 ## Programming
 - Upload File menggunakan X Loader
-- Xloader [Download di Sini](https://github.com/binaryupdates/xLoader.git) 
+- Xloader [Download di Sini](https://github.com/binaryupdates/xLoader.git)
+- Pilih salah satu file hex yang sesuai dengan Hardware Anda
 
 ## Schematic
   
