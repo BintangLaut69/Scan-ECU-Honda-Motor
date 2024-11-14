@@ -25,7 +25,7 @@
 
 
 ## Note :
-- Jika model Motor yg akan di scan Beda dengan yg ada di daftar menu, scan tetap bisa dipakai, karena pada dasarnya data pembacaannya itu sama.
+- untuk versi reguler Jika model Motor yg akan di scan Beda dengan yg ada di daftar menu, scan tetap bisa dipakai, karena pada dasarnya data pembacaannya itu sama.
 - Untuk versi auto conect yaitu scan akan otomatis membaca model motor, jadi tidak perlu mencari model motor di menu
 
 ## Pay & Price
