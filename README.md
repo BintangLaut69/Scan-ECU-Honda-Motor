@@ -14,6 +14,12 @@
 - Xloader [Download di Sini](https://github.com/binaryupdates/xLoader.git)
 - Pilih salah satu file hex yang sesuai dengan Hardware Anda
 
+  ## SOP
+  - Kunci Kontak kondisi off , scanner kondisi off
+  - kontak di on , scanner masih kondisi off
+  - lalu on kan scanner
+  - selamat mencoba
+
 ## Schematic
   
 ![alt text](https://github.com/BintangLaut69/Scan-ECU-Honda-Motor/blob/main/SCANNER%201.0.jpg?raw=true)
