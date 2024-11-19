@@ -16,7 +16,7 @@
 
   ## SOP
   - Kunci Kontak kondisi off , scanner kondisi off
-  - kontak di on , scanner masih kondisi off
+  - kunci kontak di on , scanner masih kondisi off
   - lalu on kan scanner
   - selamat mencoba
 
