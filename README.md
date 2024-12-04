@@ -36,13 +36,4 @@
 - Untuk Versi LCD dan PC yaitu scan yg dibuat bisa dijalankan di pc
 
 ## Pay & Price
-- Untuk file Hex free buat Anda semua kawan
-- Jika Anda berminat untuk oprek sketch / Coding nya silahkan Transfer ke LinkAja no 081990636845 a/n SRIASTUTI dengan nominal Rp. 40.000 , Lalu kontak ke admin 087717860565 
 
-- Untu sketch yg di kirim ada 2
-
-1. File sketch scan ecu MODE REGULER
-2. File sketch untuk Auto conect 
-- Note : ( No retur, No complain) & jika sudah order maka jika ada update maka File update akan dikirimkan Free...
-
-Selamat Mencoba Kami siap membantu.... 
