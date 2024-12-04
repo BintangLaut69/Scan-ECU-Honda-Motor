@@ -24,7 +24,7 @@
   
 ![alt text](https://github.com/BintangLaut69/Scan-ECU-Honda-Motor/blob/main/SCANNER%201.0.jpg?raw=true)
 
-![alt text](https://github.com/BintangLaut69/Scan-ECU-Honda-Motor/blob/main/SCANNER%201.0.jpg?raw=true)
+
 
 
 
