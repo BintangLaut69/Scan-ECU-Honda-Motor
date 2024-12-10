@@ -60,4 +60,4 @@ note: membeli paket 1 sudah pasti mendapat paket 2 dan 3
 - KONTAK ADMIN 087717860565
 - Demikian Harap maklum Kawan..karena Membuat coding butuh kopi pastinya...
 
-  ## Note : Bagi yg sudah order dan Membuat alat Scan ini dengan tujuan Komersil kami tidak akan memberikan update kepada orang tersebut sebelum ada kesepakatan... demikian Harap maklum karena kami juga selalu memantau semua medsos dan online shop... Terima Kasih
+  ## Note : Bagi yg sudah order source code dan Membuat alat Scan ini dengan tujuan Komersil kami tidak akan memberikan update kepada orang tersebut sebelum ada kesepakatan... demikian Harap maklum karena kami juga selalu memantau semua medsos dan online shop... Terima Kasih
