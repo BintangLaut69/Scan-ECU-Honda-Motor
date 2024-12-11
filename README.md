@@ -61,3 +61,6 @@ note: membeli paket 1 sudah pasti mendapat paket 2 dan 3
 - Demikian Harap maklum Kawan..karena Membuat coding butuh kopi pastinya...
 
   ## Note : Bagi yg sudah order source code dan Membuat alat Scan ini dengan tujuan Komersil kami tidak akan memberikan update kepada orang tersebut sebelum ada kesepakatan... demikian Harap maklum karena kami juga selalu memantau semua medsos dan online shop... Terima Kasih
+
+
+-Jadi niat sya menjual source code sampai full update nanti untuk membangun setiap bengkel kampung atau perorangan... Tapi jika dibuat untuk komersil saya jga sangat boleh... Tapi mohon sisihkan sekedar uang kopi di setiap penjualan... Karena saya membuat update itu jga butuh waktu yg tidak sebentar...jadi harus dibedakan mana yg buat pribadi dan komersil... Demikan Abangkuhh... Terima Kasih... 🙏🙏
