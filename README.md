@@ -1,5 +1,5 @@
 
-# Membuat Alat Scan ECU Motor Honda dengan Arduino Uno atau Nano
+# Membuat Alat Scan ECU Motor Honda dengan Arduino Uno atau Nano dan ESP32
 
 
 ## Protokol Komunikasi
