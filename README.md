@@ -45,10 +45,7 @@ isi = File sketch .ino Scan arduino uno/nano, File Sketch .ino Scan esp32 , File
 - Pembeli Baru = Rp.90.000 (paket 2)
   isi = File sketch .ino Scan arduino uno/nano, File Sketch .ino Scan esp32 , File apk android (apk tidak bisa di edit)
 
-- Pembeli baru = Rp.60.000 ( Paket 3) 
-isi = File sketch .ino scan versi arduino uno/ nano
-
-note: membeli paket 1 sudah pasti mendapat paket 2 dan 3
+note: membeli paket 1 sudah pasti mendapat paket 2
 
 - Pembayaran Transfer ke LinkAja 081990636845 a/n SRIASTUTI ,
 - KONTAK ADMIN 087717860565
